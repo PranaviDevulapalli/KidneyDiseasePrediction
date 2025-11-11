@@ -37,7 +37,7 @@ list_of_files=[
     # This is the notebook where you will do all your experiments
      "templates/index.html"
     # This is the template file where you will store all the html templates
-
+     
 
 
 ]
